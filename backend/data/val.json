@@ -1,0 +1,142 @@
+[
+  {
+    "claim": "The solar panels in Nevada are causing direct cloud displacement variant 160",
+    "verdict": "false",
+    "evidence": "Solar panels absorb solar irradiance and do not displace atmospheric cloud layers.",
+    "source": "AP Fact Check",
+    "category": "Science"
+  },
+  {
+    "claim": "Federal reserve lowers interest rates to 0% to combat bank runs variant 138",
+    "verdict": "false",
+    "evidence": "The Fed maintained target benchmark rates at 5.25% in the last meeting.",
+    "source": "Wikipedia",
+    "category": "Finance"
+  },
+  {
+    "claim": "Lemon water drops clean your liver and cure cancer",
+    "verdict": "false",
+    "evidence": "Lemon water contains vitamin C but has no tumor-shrinking capabilities.",
+    "source": "PolitiFact",
+    "category": "Health"
+  },
+  {
+    "claim": "Lemon water drops clean your liver and cure cancer variant 101",
+    "verdict": "false",
+    "evidence": "Lemon water contains vitamin C but has no tumor-shrinking capabilities.",
+    "source": "Reuters Fact Check",
+    "category": "Health"
+  },
+  {
+    "claim": "A loophole allows unlimited cash withdrawals from commercial banks variant 154",
+    "verdict": "false",
+    "evidence": "Withdrawals are strictly regulated by central bank limits and KYC laws.",
+    "source": "AP Fact Check",
+    "category": "Finance"
+  },
+  {
+    "claim": "The governor signed a bill to remove tax on electrical vehicles variant 63",
+    "verdict": "true",
+    "evidence": "The executive office published the signed tax exemption docket.",
+    "source": "Reuters Fact Check",
+    "category": "Politics"
+  },
+  {
+    "claim": "A new study proves plants can communicate using electrical signals variant 11",
+    "verdict": "true",
+    "evidence": "Researchers observed microvolt potentials traveling between leaves on physical damage.",
+    "source": "Snopes",
+    "category": "Science"
+  },
+  {
+    "claim": "A new study proves plants can communicate using electrical signals variant 90",
+    "verdict": "true",
+    "evidence": "Researchers observed microvolt potentials traveling between leaves on physical damage.",
+    "source": "Reuters Fact Check",
+    "category": "Science"
+  },
+  {
+    "claim": "Federal reserve lowers interest rates to 0% to combat bank runs",
+    "verdict": "false",
+    "evidence": "The Fed maintained target benchmark rates at 5.25% in the last meeting.",
+    "source": "Wikipedia",
+    "category": "Finance"
+  },
+  {
+    "claim": "A new study proves plants can communicate using electrical signals variant 20",
+    "verdict": "true",
+    "evidence": "Researchers observed microvolt potentials traveling between leaves on physical damage.",
+    "source": "Wikipedia",
+    "category": "Science"
+  },
+  {
+    "claim": "WHO declares emergency over new respiratory variant variant 114",
+    "verdict": "true",
+    "evidence": "WHO released official briefing regarding the global spike in transmission rates.",
+    "source": "Reuters Fact Check",
+    "category": "Health"
+  },
+  {
+    "claim": "Drinking 5 liters of water a day prevents coronavirus infection variant 31",
+    "verdict": "false",
+    "evidence": "Excessive water intake can cause hyponatremia and does not destroy viruses.",
+    "source": "Reuters Fact Check",
+    "category": "Health"
+  },
+  {
+    "claim": "A loophole allows unlimited cash withdrawals from commercial banks variant 46",
+    "verdict": "false",
+    "evidence": "Withdrawals are strictly regulated by central bank limits and KYC laws.",
+    "source": "PolitiFact",
+    "category": "Finance"
+  },
+  {
+    "claim": "Inflation hit an all-time record high in the Eurozone this month variant 30",
+    "verdict": "true",
+    "evidence": "Eurostat reports show official index surge to historic levels.",
+    "source": "AP Fact Check",
+    "category": "Finance"
+  },
+  {
+    "claim": "Inflation hit an all-time record high in the Eurozone this month variant 75",
+    "verdict": "true",
+    "evidence": "Eurostat reports show official index surge to historic levels.",
+    "source": "Snopes",
+    "category": "Finance"
+  },
+  {
+    "claim": "Elections in the city were postponed due to counting errors variant 117",
+    "verdict": "uncertain",
+    "evidence": "Local municipal elections faced administrative delay, investigation ongoing.",
+    "source": "Reuters Fact Check",
+    "category": "Politics"
+  },
+  {
+    "claim": "A loophole allows unlimited cash withdrawals from commercial banks variant 155",
+    "verdict": "false",
+    "evidence": "Withdrawals are strictly regulated by central bank limits and KYC laws.",
+    "source": "Wikipedia",
+    "category": "Finance"
+  },
+  {
+    "claim": "A new study proves plants can communicate using electrical signals variant 87",
+    "verdict": "true",
+    "evidence": "Researchers observed microvolt potentials traveling between leaves on physical damage.",
+    "source": "Reuters Fact Check",
+    "category": "Science"
+  },
+  {
+    "claim": "Drinking 5 liters of water a day prevents coronavirus infection variant 180",
+    "verdict": "false",
+    "evidence": "Excessive water intake can cause hyponatremia and does not destroy viruses.",
+    "source": "Wikipedia",
+    "category": "Health"
+  },
+  {
+    "claim": "Lemon water drops clean your liver and cure cancer variant 100",
+    "verdict": "false",
+    "evidence": "Lemon water contains vitamin C but has no tumor-shrinking capabilities.",
+    "source": "PolitiFact",
+    "category": "Health"
+  }
+]
